@@ -2,7 +2,7 @@
 :root {
   --main-background-color: #343A50;
   --card-background-color: #804980;
-  --countdown-background-color: #433765;
+  --countdown-background-color: #45cba0c7;
   --main-text-color:#F7F6F4;
   --title-text-color:#3CBA8B;
 }
@@ -24,4 +24,16 @@ font-weight: normal;
 }
 
 
+.bCUOwD {
+  min-width: 1em !important;
+  margin: 0.5em !important;
+  padding: 0.7em !important;
 
+}
+
+.izcVUT {
+  min-width: 1em !important;
+  margin: 0.5em !important;
+  padding: 0.7em !important;
+
+}
